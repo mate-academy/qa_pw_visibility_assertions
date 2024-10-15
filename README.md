@@ -1,1 +1,1 @@
-# qa_pw_visibility_assertions
+Playwright: practice working with expect(locator).toBeVisible() assertion. 
